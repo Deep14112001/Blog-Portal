@@ -18,7 +18,7 @@ You can find the live project on this link 👉
 
 ## Features
 
-BlogEase offers a range of features to enhance your daily life blog management:
+BlogPortal offers a range of features to enhance your daily life blog management:
 
 - robust Authentication using Json web tokens and Google OAuth integration all powered by Redux toolkit for easy State Management,
 - secured specific Pages for both the client and backend such as the admin dashboard admins can effortlessly manage posts comments and users  
@@ -34,12 +34,12 @@ To get started with Blog App, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/anilpiparaiya/BlogEase.git
+   git clone https://github.com/Deep14112001/BlogPortal.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd BlogEase
+   cd BlogPortal
    ```
 
 3. `npm run dev`
@@ -49,7 +49,7 @@ To get started with Blog App, follow these simple steps:
 
 ## Usage
 
-BlogEase is straightforward to use. Once you've opened the website in your web browser, you can:
+BlogPortal is straightforward to use. Once you've opened the website in your web browser, you can:
 
 - Make Blog by clicking on the respective sections in the navigation menu.
 - Click on individual articles or resources to view the full content.
@@ -64,12 +64,12 @@ We welcome contributions to improve and expand NoteTakingApp! If you have sugges
 
 2. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/anilpiparaiya/BlogEase.git
+   git clone https://github.com/Deep14112001/BlogPortal.git
    ```
 
 3. Navigate to the project folder:
    ```bash
-   cd BlogEase
+   cd BlogPortal
    ```
 
 4. Run the app in the development mode:
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [anilkumarpiparaiya@gmail.com](mailto:anilkumarpiparaiya@gmail.com). Enjoy your journey to a better and more informed lifestyle!
+Thank you for using BlogEase app, your go-to website for everyday lifestyle needs. If you have any questions or feedback, please feel free to reach out to us at [deepeshchandra005@gmail.com](mailto:deepeshchandra005@gmail.com). Enjoy your journey to a better and more informed lifestyle!
 
 
 
